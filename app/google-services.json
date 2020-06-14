@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "160053562814",
+    "firebase_url": "https://kite-messenger-c3fe5.firebaseio.com",
+    "project_id": "kite-messenger-c3fe5",
+    "storage_bucket": "kite-messenger-c3fe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160053562814:android:40d9b305fb9e65da263def",
+        "android_client_info": {
+          "package_name": "com.example.kitemessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160053562814-i62fg8vjm8c6cucf5jdq3mariuln6bim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kitemessenger",
+            "certificate_hash": "7c5c7d73cd68252774e15ffa4d780e05999f3162"
+          }
+        },
+        {
+          "client_id": "160053562814-73o2t0960ghgabnod50npae944v0do66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAXymsNRI5c7YMX0m1ARxkgkyqvGYu6lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160053562814-73o2t0960ghgabnod50npae944v0do66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
